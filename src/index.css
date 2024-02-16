@@ -10881,7 +10881,6 @@ header.masthead h1, header.masthead .h1 {
 #signup {
   position: relative;
   background-color: #343a40;
-  background: url("./assets/img/bg-masthead.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
