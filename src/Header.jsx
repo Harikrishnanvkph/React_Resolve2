@@ -4,6 +4,12 @@ function Header(props) {
       <section
         className="call-to-action text-white text-center master"
         id="signup"
+        style =
+        {
+          {
+            backgroundImage: `url("./assets/img/bg-masthead.jpg")`
+          }
+        }
       >
         <div className="container position-relative">
           <div className="row justify-content-center">
